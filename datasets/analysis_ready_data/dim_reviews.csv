@@ -1,0 +1,199 @@
+﻿review_id,product_id,customer_id,reviewer_name,reviewer_email,comment,rating,review_date
+1,1,141,Owen Sullivan,owen.sullivan@x.dummyjson.com,Would not recommend!,3,2025-04-30 09:41:02.0530000 +00:00
+2,1,147,Henry Turner,henry.turner@x.dummyjson.com,Very satisfied!,4,2025-04-30 09:41:02.0530000 +00:00
+4,2,140,Hannah Howard,hannah.howard@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0530000 +00:00
+10,4,20,Jackson Evans,jackson.evans@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+11,4,118,Benjamin Wilson,benjamin.wilson@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0530000 +00:00
+13,5,189,Tristan Scott,tristan.scott@x.dummyjson.com,Poor quality!,2,2025-04-30 09:41:02.0530000 +00:00
+16,6,23,Chloe Morales,chloe.morales@x.dummyjson.com,Very disappointed!,2,2025-04-30 09:41:02.0530000 +00:00
+22,8,134,Nora Russell,nora.russell@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0530000 +00:00
+28,10,143,Grayson Coleman,grayson.coleman@x.dummyjson.com,Very dissatisfied!,1,2025-04-30 09:41:02.0530000 +00:00
+29,10,184,Natalie Price,natalie.price@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0530000 +00:00
+31,11,11,Liam Garcia,liam.garcia@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+43,15,86,Nora Mills,nora.mills@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+46,16,75,Ryan Graham,ryan.graham@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0530000 +00:00
+47,16,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Very dissatisfied!,1,2025-04-30 09:41:02.0530000 +00:00
+52,18,23,Chloe Morales,chloe.morales@x.dummyjson.com,Would not recommend!,3,2025-04-30 09:41:02.0530000 +00:00
+53,18,81,Austin Hudson,austin.hudson@x.dummyjson.com,Very unhappy with my purchase!,3,2025-04-30 09:41:02.0530000 +00:00
+55,19,200,Adrian Flores,adrian.flores@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0530000 +00:00
+58,20,164,Addison Ward,addison.ward@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0530000 +00:00
+59,20,189,Tristan Scott,tristan.scott@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+70,24,189,Tristan Scott,tristan.scott@x.dummyjson.com,Would not buy again!,2,2025-04-30 09:41:02.0530000 +00:00
+73,25,52,Grace Perry,grace.perry@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+74,25,170,Penelope King,penelope.king@x.dummyjson.com,Would not recommend!,3,2025-04-30 09:41:02.0530000 +00:00
+75,25,184,Natalie Price,natalie.price@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0530000 +00:00
+76,26,172,Ariana Ross,ariana.ross@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+77,26,176,Aaliyah Martinez,aaliyah.martinez@x.dummyjson.com,Waste of money!,1,2025-04-30 09:41:02.0530000 +00:00
+82,28,134,Nora Russell,nora.russell@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0530000 +00:00
+85,29,50,Stella Hughes,stella.hughes@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0530000 +00:00
+88,30,11,Liam Garcia,liam.garcia@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+91,31,41,Evan Reed,evan.reed@x.dummyjson.com,Awesome product!,5,2025-04-30 09:41:02.0530000 +00:00
+94,32,172,Ariana Ross,ariana.ross@x.dummyjson.com,Very satisfied!,4,2025-04-30 09:41:02.0530000 +00:00
+97,33,23,Chloe Morales,chloe.morales@x.dummyjson.com,Fast shipping!,5,2025-04-30 09:41:02.0530000 +00:00
+98,33,75,Ryan Graham,ryan.graham@x.dummyjson.com,Not worth the price!,2,2025-04-30 09:41:02.0530000 +00:00
+100,34,59,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0530000 +00:00
+103,35,177,Xavier Wright,xavier.wright@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+104,35,200,Adrian Flores,adrian.flores@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+109,37,66,Aria Ferguson,aria.ferguson@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+110,37,147,Henry Turner,henry.turner@x.dummyjson.com,Very dissatisfied!,3,2025-04-30 09:41:02.0530000 +00:00
+112,38,23,Chloe Morales,chloe.morales@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0530000 +00:00
+115,39,81,Austin Hudson,austin.hudson@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+116,39,86,Nora Mills,nora.mills@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+118,40,33,Carter Baker,carter.baker@x.dummyjson.com,Would not buy again!,3,2025-04-30 09:41:02.0530000 +00:00
+119,40,87,Hunter Gordon,hunter.gordon@x.dummyjson.com,Would not buy again!,3,2025-04-30 09:41:02.0530000 +00:00
+121,41,143,Grayson Coleman,grayson.coleman@x.dummyjson.com,Not as described!,1,2025-04-30 09:41:02.0530000 +00:00
+122,41,147,Henry Turner,henry.turner@x.dummyjson.com,Fast shipping!,5,2025-04-30 09:41:02.0530000 +00:00
+124,42,184,Natalie Price,natalie.price@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+130,44,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Highly impressed!,4,2025-04-30 09:41:02.0530000 +00:00
+131,44,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0530000 +00:00
+132,44,141,Owen Sullivan,owen.sullivan@x.dummyjson.com,Very dissatisfied!,2,2025-04-30 09:41:02.0530000 +00:00
+133,44,189,Tristan Scott,tristan.scott@x.dummyjson.com,Nice Product,4,2025-04-30 09:41:02.0530000 +00:00
+136,46,177,Xavier Wright,xavier.wright@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+139,47,194,Brayden Hill,brayden.hill@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0530000 +00:00
+145,49,181,Brandon Collins,brandon.collins@x.dummyjson.com,Very disappointed!,3,2025-04-30 09:41:02.0530000 +00:00
+148,50,50,Stella Hughes,stella.hughes@x.dummyjson.com,Not worth the price!,3,2025-04-30 09:41:02.0530000 +00:00
+149,50,184,Natalie Price,natalie.price@x.dummyjson.com,Waste of money!,1,2025-04-30 09:41:02.0530000 +00:00
+151,51,187,Zachary Lee,zachary.lee@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0530000 +00:00
+157,53,23,Chloe Morales,chloe.morales@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0530000 +00:00
+160,54,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+161,54,153,Christian Perez,christian.perez@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+163,55,108,James Garcia,james.garcia@x.dummyjson.com,Very dissatisfied!,3,2025-04-30 09:41:02.0530000 +00:00
+164,55,203,Nova Cooper,nova.cooper@x.dummyjson.com,Very happy with my purchase!,4,2025-04-30 09:41:02.0530000 +00:00
+166,56,153,Christian Perez,christian.perez@x.dummyjson.com,Would not recommend!,1,2025-04-30 09:41:02.0530000 +00:00
+169,57,203,Nova Cooper,nova.cooper@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0530000 +00:00
+178,60,141,Owen Sullivan,owen.sullivan@x.dummyjson.com,Would not buy again!,1,2025-04-30 09:41:02.0530000 +00:00
+184,62,87,Hunter Gordon,hunter.gordon@x.dummyjson.com,Awesome product!,5,2025-04-30 09:41:02.0530000 +00:00
+185,62,108,James Garcia,james.garcia@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0530000 +00:00
+187,63,202,Caleb Nelson,caleb.nelson@x.dummyjson.com,Highly recommended!,5,2025-04-30 09:41:02.0530000 +00:00
+190,64,67,Gabriel Hayes,gabriel.hayes@x.dummyjson.com,Very disappointed!,2,2025-04-30 09:41:02.0530000 +00:00
+199,67,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Very unhappy with my purchase!,1,2025-04-30 09:41:02.0530000 +00:00
+202,68,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+203,68,33,Carter Baker,carter.baker@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+205,69,93,Julian Newton,julian.newton@x.dummyjson.com,Disappointing product!,3,2025-04-30 09:41:02.0530000 +00:00
+206,69,140,Hannah Howard,hannah.howard@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+211,71,33,Carter Baker,carter.baker@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+217,73,140,Hannah Howard,hannah.howard@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0530000 +00:00
+220,74,141,Owen Sullivan,owen.sullivan@x.dummyjson.com,Waste of money!,3,2025-04-30 09:41:02.0530000 +00:00
+221,74,172,Ariana Ross,ariana.ross@x.dummyjson.com,Disappointing product!,1,2025-04-30 09:41:02.0530000 +00:00
+226,76,86,Nora Mills,nora.mills@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+227,76,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Very disappointed!,3,2025-04-30 09:41:02.0530000 +00:00
+229,77,42,Avery Carter,avery.carter@x.dummyjson.com,Very unhappy with my purchase!,1,2025-04-30 09:41:02.0530000 +00:00
+232,78,33,Carter Baker,carter.baker@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0530000 +00:00
+235,79,93,Julian Newton,julian.newton@x.dummyjson.com,Very happy with my purchase!,4,2025-04-30 09:41:02.0530000 +00:00
+238,80,134,Nora Russell,nora.russell@x.dummyjson.com,Very satisfied!,4,2025-04-30 09:41:02.0530000 +00:00
+239,80,170,Penelope King,penelope.king@x.dummyjson.com,Very happy with my purchase!,4,2025-04-30 09:41:02.0530000 +00:00
+244,82,147,Henry Turner,henry.turner@x.dummyjson.com,Poor quality!,3,2025-04-30 09:41:02.0530000 +00:00
+247,83,20,Jackson Evans,jackson.evans@x.dummyjson.com,Waste of money!,1,2025-04-30 09:41:02.0530000 +00:00
+248,83,75,Ryan Graham,ryan.graham@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0530000 +00:00
+253,85,41,Evan Reed,evan.reed@x.dummyjson.com,Disappointing product!,3,2025-04-30 09:41:02.0530000 +00:00
+254,85,52,Grace Perry,grace.perry@x.dummyjson.com,Awesome product!,4,2025-04-30 09:41:02.0530000 +00:00
+262,88,172,Ariana Ross,ariana.ross@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+265,89,203,Nova Cooper,nova.cooper@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0530000 +00:00
+268,90,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+271,91,42,Avery Carter,avery.carter@x.dummyjson.com,Would buy again!,4,2025-04-30 09:41:02.0530000 +00:00
+274,92,23,Chloe Morales,chloe.morales@x.dummyjson.com,Excellent quality!,4,2025-04-30 09:41:02.0530000 +00:00
+275,92,94,Ruby Andrews,ruby.andrews@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0530000 +00:00
+277,93,20,Jackson Evans,jackson.evans@x.dummyjson.com,Very unhappy with my purchase!,1,2025-04-30 09:41:02.0530000 +00:00
+278,93,23,Chloe Morales,chloe.morales@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+279,93,203,Nova Cooper,nova.cooper@x.dummyjson.com,Would buy again!,4,2025-04-30 09:41:02.0530000 +00:00
+280,94,160,Claire Foster,claire.foster@x.dummyjson.com,Highly impressed!,4,2025-04-30 09:41:02.0530000 +00:00
+289,97,81,Austin Hudson,austin.hudson@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0530000 +00:00
+290,97,150,Stella Morris,stella.morris@x.dummyjson.com,Very pleased!,4,2025-04-30 09:41:02.0530000 +00:00
+291,97,164,Addison Ward,addison.ward@x.dummyjson.com,Waste of money!,3,2025-04-30 09:41:02.0530000 +00:00
+292,98,108,James Garcia,james.garcia@x.dummyjson.com,Great value for money!,4,2025-04-30 09:41:02.0530000 +00:00
+298,100,33,Carter Baker,carter.baker@x.dummyjson.com,Would not buy again!,3,2025-04-30 09:41:02.0530000 +00:00
+299,100,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0530000 +00:00
+301,101,187,Zachary Lee,zachary.lee@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0530000 +00:00
+307,103,184,Natalie Price,natalie.price@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0530000 +00:00
+310,104,153,Christian Perez,christian.perez@x.dummyjson.com,Very disappointed!,1,2025-04-30 09:41:02.0530000 +00:00
+313,105,23,Chloe Morales,chloe.morales@x.dummyjson.com,Would not recommend!,2,2025-04-30 09:41:02.0530000 +00:00
+314,105,181,Brandon Collins,brandon.collins@x.dummyjson.com,Not as described!,2,2025-04-30 09:41:02.0530000 +00:00
+316,106,176,Aaliyah Martinez,aaliyah.martinez@x.dummyjson.com,Very unhappy with my purchase!,3,2025-04-30 09:41:02.0530000 +00:00
+319,107,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Disappointing product!,2,2025-04-30 09:41:02.0530000 +00:00
+320,107,170,Penelope King,penelope.king@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0530000 +00:00
+322,108,6,Olivia Wilson,olivia.wilson@x.dummyjson.com,Would not buy again!,2,2025-04-30 09:41:02.0530000 +00:00
+323,108,134,Nora Russell,nora.russell@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0530000 +00:00
+325,109,41,Evan Reed,evan.reed@x.dummyjson.com,Not worth the price!,1,2025-04-30 09:41:02.0530000 +00:00
+328,110,75,Ryan Graham,ryan.graham@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+329,110,86,Nora Mills,nora.mills@x.dummyjson.com,Poor quality!,3,2025-04-30 09:41:02.0530000 +00:00
+330,110,142,Aria Parker,aria.parker@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0530000 +00:00
+331,111,11,Liam Garcia,liam.garcia@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+332,111,86,Nora Mills,nora.mills@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0530000 +00:00
+334,112,150,Stella Morris,stella.morris@x.dummyjson.com,Would not recommend!,3,2025-04-30 09:41:02.0530000 +00:00
+337,113,67,Gabriel Hayes,gabriel.hayes@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0530000 +00:00
+349,117,23,Chloe Morales,chloe.morales@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0540000 +00:00
+352,118,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0530000 +00:00
+361,121,170,Penelope King,penelope.king@x.dummyjson.com,Highly recommended!,5,2025-04-30 09:41:02.0540000 +00:00
+364,122,142,Aria Parker,aria.parker@x.dummyjson.com,Disappointing product!,3,2025-04-30 09:41:02.0540000 +00:00
+370,124,86,Nora Mills,nora.mills@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0540000 +00:00
+371,124,142,Aria Parker,aria.parker@x.dummyjson.com,Great product!,5,2025-04-30 09:41:02.0540000 +00:00
+372,124,143,Grayson Coleman,grayson.coleman@x.dummyjson.com,Not as described!,2,2025-04-30 09:41:02.0540000 +00:00
+373,125,108,James Garcia,james.garcia@x.dummyjson.com,Excellent quality!,4,2025-04-30 09:41:02.0540000 +00:00
+376,126,118,Benjamin Wilson,benjamin.wilson@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0540000 +00:00
+379,127,172,Ariana Ross,ariana.ross@x.dummyjson.com,Very pleased!,4,2025-04-30 09:41:02.0540000 +00:00
+380,127,189,Tristan Scott,tristan.scott@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0540000 +00:00
+382,128,66,Aria Ferguson,aria.ferguson@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0540000 +00:00
+383,128,150,Stella Morris,stella.morris@x.dummyjson.com,Very unhappy with my purchase!,2,2025-04-30 09:41:02.0540000 +00:00
+385,129,86,Nora Mills,nora.mills@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0540000 +00:00
+388,130,59,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Very satisfied!,4,2025-04-30 09:41:02.0540000 +00:00
+394,132,108,James Garcia,james.garcia@x.dummyjson.com,Highly impressed!,4,2025-04-30 09:41:02.0540000 +00:00
+397,133,11,Liam Garcia,liam.garcia@x.dummyjson.com,Excellent quality!,4,2025-04-30 09:41:02.0540000 +00:00
+398,133,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0540000 +00:00
+400,134,6,Olivia Wilson,olivia.wilson@x.dummyjson.com,Very satisfied!,4,2025-04-30 09:41:02.0540000 +00:00
+401,134,164,Addison Ward,addison.ward@x.dummyjson.com,Very disappointed!,3,2025-04-30 09:41:02.0540000 +00:00
+402,134,194,Brayden Hill,brayden.hill@x.dummyjson.com,Would buy again!,4,2025-04-30 09:41:02.0540000 +00:00
+412,138,134,Nora Russell,nora.russell@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0540000 +00:00
+413,138,147,Henry Turner,henry.turner@x.dummyjson.com,Great value for money!,4,2025-04-30 09:41:02.0540000 +00:00
+414,138,187,Zachary Lee,zachary.lee@x.dummyjson.com,Poor quality!,1,2025-04-30 09:41:02.0540000 +00:00
+415,139,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Very unhappy with my purchase!,1,2025-04-30 09:41:02.0540000 +00:00
+418,140,20,Jackson Evans,jackson.evans@x.dummyjson.com,Highly recommended!,5,2025-04-30 09:41:02.0540000 +00:00
+421,141,147,Henry Turner,henry.turner@x.dummyjson.com,Fast shipping!,4,2025-04-30 09:41:02.0540000 +00:00
+427,143,81,Austin Hudson,austin.hudson@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0540000 +00:00
+430,144,50,Stella Hughes,stella.hughes@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0540000 +00:00
+431,144,142,Aria Parker,aria.parker@x.dummyjson.com,Excellent quality!,4,2025-04-30 09:41:02.0540000 +00:00
+433,145,172,Ariana Ross,ariana.ross@x.dummyjson.com,Very dissatisfied!,3,2025-04-30 09:41:02.0540000 +00:00
+442,148,142,Aria Parker,aria.parker@x.dummyjson.com,Not worth the price!,2,2025-04-30 09:41:02.0540000 +00:00
+445,149,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Awesome product!,5,2025-04-30 09:41:02.0540000 +00:00
+446,149,35,Jack Ward,jack.ward@x.dummyjson.com,Would not buy again!,1,2025-04-30 09:41:02.0540000 +00:00
+448,150,15,William Gonzalez,william.gonzalez@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0540000 +00:00
+451,151,184,Natalie Price,natalie.price@x.dummyjson.com,Would buy again!,4,2025-04-30 09:41:02.0540000 +00:00
+454,152,153,Christian Perez,christian.perez@x.dummyjson.com,Poor quality!,3,2025-04-30 09:41:02.0540000 +00:00
+455,152,200,Adrian Flores,adrian.flores@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0540000 +00:00
+457,153,59,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0540000 +00:00
+458,153,170,Penelope King,penelope.king@x.dummyjson.com,Would not recommend!,1,2025-04-30 09:41:02.0540000 +00:00
+459,153,187,Zachary Lee,zachary.lee@x.dummyjson.com,Highly recommended!,4,2025-04-30 09:41:02.0540000 +00:00
+460,154,189,Tristan Scott,tristan.scott@x.dummyjson.com,Would not recommend!,3,2025-04-30 09:41:02.0540000 +00:00
+463,155,140,Hannah Howard,hannah.howard@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0540000 +00:00
+466,156,87,Hunter Gordon,hunter.gordon@x.dummyjson.com,Waste of money!,3,2025-04-30 09:41:02.0540000 +00:00
+469,157,134,Nora Russell,nora.russell@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0540000 +00:00
+472,158,81,Austin Hudson,austin.hudson@x.dummyjson.com,Would buy again!,5,2025-04-30 09:41:02.0540000 +00:00
+473,158,86,Nora Mills,nora.mills@x.dummyjson.com,Not worth the price!,2,2025-04-30 09:41:02.0540000 +00:00
+478,160,41,Evan Reed,evan.reed@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0540000 +00:00
+479,160,143,Grayson Coleman,grayson.coleman@x.dummyjson.com,Disappointing product!,2,2025-04-30 09:41:02.0540000 +00:00
+484,162,11,Liam Garcia,liam.garcia@x.dummyjson.com,Great product!,4,2025-04-30 09:41:02.0540000 +00:00
+487,163,41,Evan Reed,evan.reed@x.dummyjson.com,Excellent quality!,5,2025-04-30 09:41:02.0540000 +00:00
+490,164,187,Zachary Lee,zachary.lee@x.dummyjson.com,Highly impressed!,5,2025-04-30 09:41:02.0540000 +00:00
+493,165,176,Aaliyah Martinez,aaliyah.martinez@x.dummyjson.com,Disappointing product!,3,2025-04-30 09:41:02.0540000 +00:00
+496,166,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Highly recommended!,5,2025-04-30 09:41:02.0540000 +00:00
+499,167,86,Nora Mills,nora.mills@x.dummyjson.com,Very pleased!,4,2025-04-30 09:41:02.0540000 +00:00
+502,168,33,Carter Baker,carter.baker@x.dummyjson.com,Not worth the price!,2,2025-04-30 09:41:02.0540000 +00:00
+511,171,33,Carter Baker,carter.baker@x.dummyjson.com,Fast shipping!,5,2025-04-30 09:41:02.0540000 +00:00
+512,171,177,Xavier Wright,xavier.wright@x.dummyjson.com,Awesome product!,5,2025-04-30 09:41:02.0540000 +00:00
+513,171,187,Zachary Lee,zachary.lee@x.dummyjson.com,Fast shipping!,5,2025-04-30 09:41:02.0540000 +00:00
+514,172,147,Henry Turner,henry.turner@x.dummyjson.com,Waste of money!,3,2025-04-30 09:41:02.0540000 +00:00
+515,172,150,Stella Morris,stella.morris@x.dummyjson.com,Not worth the price!,3,2025-04-30 09:41:02.0540000 +00:00
+520,174,6,Olivia Wilson,olivia.wilson@x.dummyjson.com,Would not buy again!,2,2025-04-30 09:41:02.0540000 +00:00
+532,178,194,Brayden Hill,brayden.hill@x.dummyjson.com,Very happy with my purchase!,5,2025-04-30 09:41:02.0540000 +00:00
+535,179,81,Austin Hudson,austin.hudson@x.dummyjson.com,Very satisfied!,5,2025-04-30 09:41:02.0540000 +00:00
+541,181,177,Xavier Wright,xavier.wright@x.dummyjson.com,Fast shipping!,5,2025-04-30 09:41:02.0540000 +00:00
+542,181,202,Caleb Nelson,caleb.nelson@x.dummyjson.com,Very disappointed!,3,2025-04-30 09:41:02.0540000 +00:00
+544,182,33,Carter Baker,carter.baker@x.dummyjson.com,Would buy again!,4,2025-04-30 09:41:02.0540000 +00:00
+545,182,35,Jack Ward,jack.ward@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0540000 +00:00
+547,183,33,Carter Baker,carter.baker@x.dummyjson.com,Would not buy again!,3,2025-04-30 09:41:02.0540000 +00:00
+559,187,59,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Excellent quality!,4,2025-04-30 09:41:02.0540000 +00:00
+560,187,87,Hunter Gordon,hunter.gordon@x.dummyjson.com,Very pleased!,5,2025-04-30 09:41:02.0540000 +00:00
+568,190,33,Carter Baker,carter.baker@x.dummyjson.com,Disappointing product!,3,2025-04-30 09:41:02.0540000 +00:00
+569,190,160,Claire Foster,claire.foster@x.dummyjson.com,Great value for money!,5,2025-04-30 09:41:02.0540000 +00:00
+570,190,164,Addison Ward,addison.ward@x.dummyjson.com,Would not buy again!,3,2025-04-30 09:41:02.0540000 +00:00
+571,191,194,Brayden Hill,brayden.hill@x.dummyjson.com,Very happy with my purchase!,4,2025-04-30 09:41:02.0540000 +00:00
+577,193,90,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,Highly impressed!,4,2025-04-30 09:41:02.0540000 +00:00

@@ -1,0 +1,199 @@
+﻿order_id,product_id,customer_id,product_name,product_price,product_quantity,product_total,product_discount_percentage,product_discounted_total,total_products,total_quantity,total_price,discounted_total_price,product_thumbnail
+1,168,33,Charger SXT RWD,32999.99,3,98999.97,13.39,85743.87,4,15,103774.85,89686.65,https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png
+1,78,33,Apple MacBook Pro 14 Inch Space Grey,1999.99,2,3999.98,18.52,3259.18,4,15,103774.85,89686.65,https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png
+1,183,33,Green Oval Earring,24.99,5,124.95,6.28,117.1,4,15,103774.85,89686.65,https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png
+1,100,33,Apple Airpods,129.99,5,649.95,12.84,566.5,4,15,103774.85,89686.65,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png
+2,144,142,Cricket Helmet,44.99,4,179.96,11.47,159.32,5,20,4794.8,4288.95,https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png
+2,124,142,iPhone X,899.99,4,3599.96,8.03,3310.88,5,20,4794.8,4288.95,https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png
+2,148,142,Golf Ball,9.99,4,39.96,11.24,35.47,5,20,4794.8,4288.95,https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png
+2,122,142,iPhone 6,299.99,3,899.97,19.64,723.22,5,20,4794.8,4288.95,https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png
+2,110,142,Selfie Lamp with iPhone,14.99,5,74.95,19.87,60.06,5,20,4794.8,4288.95,https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png
+3,98,108,Rolex Submariner Watch,13999.99,1,13999.99,16.35,11710.99,5,13,16775.87,14144.3,https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png
+3,125,108,Oppo A57,249.99,5,1249.95,16.54,1043.21,5,13,16775.87,14144.3,https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png
+3,55,108,Egg Slicer,6.99,2,13.98,16.04,11.74,5,13,16775.87,14144.3,https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png
+3,62,108,Ice Cube Tray,5.99,2,11.98,8.25,10.99,5,13,16775.87,14144.3,https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png
+3,132,108,Samsung Galaxy S8,499.99,3,1499.97,8.84,1367.37,5,13,16775.87,14144.3,https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png
+4,187,87,Golden Shoes Woman,49.99,5,249.95,1.64,245.85,4,17,456.83,443.23,https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png
+4,40,87,Strawberry,3.99,5,19.95,4.6,19.03,4,17,456.83,443.23,https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png
+4,156,87,Green and Black Glasses,34.99,5,174.95,4.34,167.36,4,17,456.83,443.23,https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png
+4,62,87,Ice Cube Tray,5.99,2,11.98,8.25,10.99,4,17,456.83,443.23,https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png
+5,108,134,iPhone 12 Silicone Case with MagSafe Plum,29.99,2,59.98,14.68,51.17,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png
+5,138,134,Baseball Ball,8.99,5,44.95,18.49,36.64,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png
+5,157,134,Party Glasses,19.99,2,39.98,19.17,32.32,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/sunglasses/Party%20Glasses/thumbnail.png
+5,8,134,Dior J'adore,89.99,3,269.97,10.79,240.84,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png
+5,80,134,Huawei Matebook X Pro,1399.99,5,6999.95,9.99,6300.65,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png
+5,28,134,Ice Cream,5.49,3,16.47,10,14.82,6,20,7431.3,6676.44,https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png
+6,172,150,Blue Women's Handbag,49.99,5,249.95,8.08,229.75,4,14,35199.86,31435.05,https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png
+6,112,150,TV Studio Camera Pedestal,499.99,3,1499.97,15.69,1264.62,4,14,35199.86,31435.05,https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png
+6,97,150,Rolex Datejust,10999.99,3,32999.97,10.58,29508.57,4,14,35199.86,31435.05,https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png
+6,128,150,Realme C35,149.99,3,449.97,3.97,432.11,4,14,35199.86,31435.05,https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png
+7,167,86,300 Touring,28999.99,5,144999.95,11.78,127918.96,3,11,145651.89,128504.41,https://cdn.dummyjson.com/products/images/vehicle/300%20Touring/thumbnail.png
+7,111,86,Selfie Stick Monopod,12.99,4,51.96,10.98,46.25,3,11,145651.89,128504.41,https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png
+7,129,86,Realme X,299.99,2,599.98,10.13,539.2,3,11,145651.89,128504.41,https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png
+8,117,23,Sportbike Motorcycle,7499.99,2,14999.98,19.83,12025.48,4,14,15685.86,12666.75,https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png
+8,18,23,Cat Food,8.99,4,35.96,1.15,35.55,4,14,15685.86,12666.75,https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png
+8,105,23,Apple MagSafe Battery Pack,99.99,5,499.95,7.14,464.25,4,14,15685.86,12666.75,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png
+8,6,23,Calvin Klein CK One,49.99,3,149.97,5.67,141.47,4,14,15685.86,12666.75,https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png
+9,178,194,Corset Leather With Skirt,89.99,2,179.98,12.59,157.32,4,13,65529.87,63336.57,https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png
+9,191,194,Rolex Cellini Moonphase,15999.99,4,63999.96,3.26,61913.56,4,13,65529.87,63336.57,https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png
+9,47,194,Table Lamp,49.99,2,99.98,13.74,86.24,4,13,65529.87,63336.57,https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png
+9,134,194,Vivo S1,249.99,5,1249.95,5.64,1179.45,4,13,65529.87,63336.57,https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png
+10,190,160,IWC Ingenieur Automatic Steel,4999.99,5,24999.95,12.34,21914.96,2,8,29499.92,25675.13,https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png
+10,94,160,Longines Master Collection,1499.99,3,4499.97,16.44,3760.17,2,8,29499.92,25675.13,https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png
+11,88,172,Nike Air Jordan 1 Red And Black,149.99,1,149.99,17.18,124.22,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png
+11,32,172,Milk,3.49,3,10.47,9.36,9.49,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png
+11,74,172,Spoon,4.99,3,14.97,2.78,14.55,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png
+11,145,172,Cricket Wicket,29.99,3,89.97,17.87,73.89,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/thumbnail.png
+11,26,172,Green Chili Pepper,0.99,3,2.97,18.69,2.41,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png
+11,127,172,Oppo K1,299.99,1,299.99,15.93,252.2,6,14,568.36,476.76,https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png
+12,63,202,Kitchen Sieve,7.99,4,31.96,18.8,25.95,2,9,931.91,798.02,https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/thumbnail.png
+12,181,202,Marni Red & Black Suit,179.99,5,899.95,14.21,772.07,2,9,931.91,798.02,https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png
+13,85,41,Man Plaid Shirt,34.99,2,69.98,3.7,67.39,5,13,793.07,750.8,https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png
+13,109,41,Monopod,19.99,3,59.97,12.95,52.2,5,13,793.07,750.8,https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/thumbnail.png
+13,160,41,Samsung Galaxy Tab S8 Plus Grey,599.99,1,599.99,4.31,574.13,5,13,793.07,750.8,https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png
+13,163,41,Girl Summer Dress,19.99,3,59.97,9.44,54.31,5,13,793.07,750.8,https://cdn.dummyjson.com/products/images/tops/Girl%20Summer%20Dress/thumbnail.png
+13,31,41,Lemon,0.79,4,3.16,12.32,2.77,5,13,793.07,750.8,https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png
+14,92,94,Sports Sneakers Off White Red,109.99,3,329.97,17.73,271.47,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png
+14,54,94,Citrus Squeezer Yellow,8.99,5,44.95,6.3,42.12,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png
+14,76,94,Wooden Rolling Pin,11.99,1,11.99,8.45,10.98,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png
+14,44,94,Family Tree Photo Frame,29.99,5,149.95,10.68,133.94,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png
+14,67,94,Mug Tree Stand,15.99,3,47.97,16.65,39.98,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/thumbnail.png
+14,16,94,Apple,1.99,1,1.99,11.74,1.76,6,18,586.82,500.25,https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png
+15,11,11,Annibale Colombo Bed,1899.99,5,9499.95,8.09,8731.4,5,19,11741.31,10940.95,https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png
+15,133,11,Samsung Galaxy S10,699.99,3,2099.97,1.12,2076.45,5,19,11741.31,10940.95,https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png
+15,111,11,Selfie Stick Monopod,12.99,3,38.97,10.98,34.69,5,19,11741.31,10940.95,https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png
+15,162,11,Blue Frock,29.99,3,89.97,3.86,86.5,5,19,11741.31,10940.95,https://cdn.dummyjson.com/products/images/tops/Blue%20Frock/thumbnail.png
+15,30,11,Kiwi,2.49,5,12.45,4.34,11.91,5,19,11741.31,10940.95,https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png
+16,19,200,Chicken Meat,9.99,2,19.98,13.37,17.31,3,6,172.24,155.84,https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png
+16,152,200,Tennis Racket,49.99,3,149.97,9.13,136.28,3,6,172.24,155.84,https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png
+16,35,200,Potatoes,2.29,1,2.29,1.69,2.25,3,6,172.24,155.84,https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png
+17,1,141,Essence Mascara Lash Princess,9.99,2,19.98,0.63,19.85,4,13,192.87,173.9,https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png
+17,60,141,Grater Black,10.99,3,32.97,16.62,27.49,4,13,192.87,173.9,https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png
+17,74,141,Spoon,4.99,4,19.96,2.78,19.41,4,13,192.87,173.9,https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png
+17,44,141,Family Tree Photo Frame,29.99,4,119.96,10.68,107.15,4,13,192.87,173.9,https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png
+18,127,189,Oppo K1,299.99,4,1199.96,15.93,1008.81,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png
+18,24,189,Fish Steak,14.99,3,44.97,7.66,41.53,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png
+18,20,189,Cooking Oil,4.99,5,24.95,12.62,21.8,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png
+18,154,189,Black Sun Glasses,29.99,3,89.97,1.11,88.97,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png
+18,44,189,Family Tree Photo Frame,29.99,2,59.98,10.68,53.57,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png
+18,5,189,Red Nail Polish,8.99,5,44.95,3.76,43.26,6,22,1464.78,1257.94,https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png
+19,187,59,Golden Shoes Woman,49.99,3,149.97,1.64,147.51,4,13,933.87,794.78,https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png
+19,153,59,Volleyball,11.99,5,59.95,16.05,50.33,4,13,933.87,794.78,https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png
+19,34,59,Nescafe Coffee,7.99,3,23.97,8.31,21.98,4,13,933.87,794.78,https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png
+19,130,59,Realme XT,349.99,2,699.98,17.86,574.96,4,13,933.87,794.78,https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png
+20,107,90,Beats Flex Wireless Earphones,49.99,1,49.99,8.79,45.6,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png
+20,193,90,Watch Gold for Women,799.99,3,2399.97,19.53,1931.26,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/womens-watches/Watch%20Gold%20for%20Women/thumbnail.png
+20,100,90,Apple Airpods,129.99,3,389.97,12.84,339.9,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png
+20,90,90,Puma Future Rider Trainers,89.99,5,449.95,14.7,383.81,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png
+20,118,90,Attitude Super Leaves Hand Soap,8.99,5,44.95,7.23,41.7,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/thumbnail.png
+20,166,90,Tartan Dress,39.99,5,199.95,2.82,194.31,6,22,3534.78,2936.58,https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/thumbnail.png
+21,77,42,Yellow Peeler,5.99,2,11.98,13.16,10.4,2,4,251.96,245.68,https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png
+21,91,42,Sports Sneakers Off White & Red,119.99,2,239.98,1.96,235.28,2,4,251.96,245.68,https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/thumbnail.png
+22,73,140,Spice Rack,19.99,5,99.95,8.74,91.21,4,12,222.88,205.63,https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png
+22,2,140,Eyeshadow Palette with Mirror,19.99,2,39.98,0.7,39.7,4,12,222.88,205.63,https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png
+22,69,140,Plate,3.99,2,7.98,16,6.7,4,12,222.88,205.63,https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png
+22,155,140,Classic Sun Glasses,24.99,3,74.97,9.27,68.02,4,12,222.88,205.63,https://cdn.dummyjson.com/products/images/sunglasses/Classic%20Sun%20Glasses/thumbnail.png
+23,82,147,New DELL XPS 13 9300 Laptop,1499.99,5,7499.95,3.9,7207.45,5,20,7757.8,7439.98,https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png
+23,172,147,Blue Women's Handbag,49.99,4,199.96,8.08,183.8,5,20,7757.8,7439.98,https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png
+23,41,147,Tissue Paper Box,2.49,2,4.98,2.74,4.84,5,20,7757.8,7439.98,https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png
+23,37,147,Red Onions,1.99,4,7.96,8.95,7.25,5,20,7757.8,7439.98,https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png
+23,138,147,Baseball Ball,8.99,5,44.95,18.49,36.64,5,20,7757.8,7439.98,https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png
+24,108,6,iPhone 12 Silicone Case with MagSafe Plum,29.99,5,149.95,14.68,127.94,3,10,1749.9,1594.33,https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png
+24,134,6,Vivo S1,249.99,4,999.96,5.64,943.56,3,10,1749.9,1594.33,https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png
+24,174,6,Prada Women Bag,599.99,1,599.99,12.86,522.83,3,10,1749.9,1594.33,https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png
+25,4,118,Red Lipstick,12.99,1,12.99,14.69,11.08,2,2,412.98,353.55,https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png
+25,126,118,Oppo F19 Pro+,399.99,1,399.99,14.38,342.47,2,2,412.98,353.55,https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro+/thumbnail.png
+26,37,66,Red Onions,1.99,5,9.95,8.95,9.06,2,8,459.92,441.17,https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png
+26,128,66,Realme C35,149.99,3,449.97,3.97,432.11,2,8,459.92,441.17,https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png
+27,33,75,Mulberry,4.99,1,4.99,2.75,4.85,4,11,190.89,170.95,https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png
+27,110,75,Selfie Lamp with iPhone,14.99,2,29.98,19.87,24.02,4,11,190.89,170.95,https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png
+27,16,75,Apple,1.99,3,5.97,11.74,5.27,4,11,190.89,170.95,https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png
+27,83,75,Blue & Black Check Shirt,29.99,5,149.95,8.76,136.81,4,11,190.89,170.95,https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png
+28,1,147,Essence Mascara Lash Princess,9.99,5,49.95,0.63,49.64,2,9,209.91,186.09,https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png
+28,141,147,Basketball Rim,39.99,4,159.96,14.7,136.45,2,9,209.91,186.09,https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png
+29,80,170,Huawei Matebook X Pro,1399.99,2,2799.98,9.99,2520.26,5,17,3862.43,3488.44,https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png
+29,107,170,Beats Flex Wireless Earphones,49.99,4,199.96,8.79,182.38,5,17,3862.43,3488.44,https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png
+29,25,170,Green Bell Pepper,1.29,2,2.58,1.2,2.55,5,17,3862.43,3488.44,https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png
+29,121,170,iPhone 5s,199.99,4,799.96,8.38,732.92,5,17,3862.43,3488.44,https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png
+29,153,170,Volleyball,11.99,5,59.95,16.05,50.33,5,17,3862.43,3488.44,https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png
+30,181,177,Marni Red & Black Suit,179.99,1,179.99,14.21,154.41,4,13,128249.07,118740.76,https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png
+30,171,177,Pacifica Touring,31999.99,4,127999.96,7.4,118527.96,4,13,128249.07,118740.76,https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png
+30,35,177,Potatoes,2.29,4,9.16,1.69,9.01,4,13,128249.07,118740.76,https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png
+30,46,177,Plant Pot,14.99,4,59.96,17.65,49.38,4,13,128249.07,118740.76,https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png
+31,41,143,Tissue Paper Box,2.49,4,9.96,2.74,9.69,4,13,4749.87,4454.75,https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png
+31,10,143,Gucci Bloom Eau de,79.99,3,239.97,0.19,239.51,4,13,4749.87,4454.75,https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png
+31,124,143,iPhone X,899.99,3,2699.97,8.03,2483.16,4,13,4749.87,4454.75,https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png
+31,160,143,Samsung Galaxy Tab S8 Plus Grey,599.99,3,1799.97,4.31,1722.39,4,13,4749.87,4454.75,https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png
+32,134,164,Vivo S1,249.99,2,499.98,5.64,471.78,4,13,65519.87,58436.16,https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png
+32,97,164,Rolex Datejust,10999.99,5,54999.95,10.58,49180.96,4,13,65519.87,58436.16,https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png
+32,190,164,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,12.34,8765.98,4,13,65519.87,58436.16,https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png
+32,20,164,Cooking Oil,4.99,4,19.96,12.62,17.44,4,13,65519.87,58436.16,https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png
+33,105,181,Apple MagSafe Battery Pack,99.99,2,199.98,7.14,185.7,2,7,229.93,210.56,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png
+33,49,181,Black Aluminium Cup,5.99,5,29.95,17.01,24.86,2,7,229.93,210.56,https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png
+34,89,203,Nike Baseball Cleats,79.99,5,399.95,6.13,375.43,4,17,830.83,766.56,https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/thumbnail.png
+34,93,203,Brown Leather Belt Watch,89.99,4,359.96,8.72,328.57,4,17,830.83,766.56,https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png
+34,55,203,Egg Slicer,6.99,3,20.97,16.04,17.61,4,17,830.83,766.56,https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png
+34,57,203,Fine Mesh Strainer,9.99,5,49.95,10.02,44.95,4,17,830.83,766.56,https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/thumbnail.png
+35,104,153,Apple iPhone Charger,19.99,5,99.95,11.73,88.23,4,13,417.87,373.69,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/thumbnail.png
+35,54,153,Citrus Squeezer Yellow,8.99,2,17.98,6.3,16.85,4,13,417.87,373.69,https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png
+35,152,153,Tennis Racket,49.99,1,49.99,9.13,45.43,4,13,417.87,373.69,https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png
+35,56,153,Electric Stove,49.99,5,249.95,10.71,223.18,4,13,417.87,373.69,https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/thumbnail.png
+36,26,176,Green Chili Pepper,0.99,1,0.99,18.69,0.8,3,11,1875.89,1728.16,https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png
+36,165,176,Short Frock,24.99,5,124.95,3.23,120.91,3,11,1875.89,1728.16,https://cdn.dummyjson.com/products/images/tops/Short%20Frock/thumbnail.png
+36,106,176,Apple Watch Series 4 Gold,349.99,5,1749.95,8.2,1606.45,3,11,1875.89,1728.16,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png
+37,171,33,Pacifica Touring,31999.99,5,159999.95,7.4,148159.95,4,14,160289.86,148416.41,https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png
+37,71,33,Silver Pot With Glass Cap,39.99,4,159.96,17.64,131.74,4,14,160289.86,148416.41,https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png
+37,68,33,Pan,24.99,4,99.96,5.16,94.8,4,14,160289.86,148416.41,https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png
+37,182,33,Green Crystal Earring,29.99,1,29.99,0.23,29.92,4,14,160289.86,148416.41,https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png
+38,44,15,Family Tree Photo Frame,29.99,5,149.95,10.68,133.94,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png
+38,68,15,Pan,24.99,3,74.97,5.16,71.1,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png
+38,149,15,Iron Golf,49.99,4,199.96,12.89,174.19,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png
+38,139,15,Baseball Glove,24.99,3,74.97,12.13,65.88,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png
+38,150,15,Metal Baseball Bat,29.99,2,59.98,18.43,48.93,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/thumbnail.png
+38,133,15,Samsung Galaxy S10,699.99,4,2799.96,1.12,2768.6,6,21,3359.79,3262.64,https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png
+39,179,81,Corset With Black Skirt,79.99,3,239.97,9.94,216.12,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20With%20Black%20Skirt/thumbnail.png
+39,39,81,Soft Drinks,1.99,1,1.99,5.99,1.87,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png
+39,143,81,Cricket Bat,29.99,1,29.99,9.21,27.23,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/thumbnail.png
+39,18,81,Cat Food,8.99,4,35.96,1.15,35.55,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png
+39,158,81,Sunglasses,22.99,3,68.97,6.45,64.52,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png
+39,97,81,Rolex Datejust,10999.99,4,43999.96,10.58,39344.76,6,16,44376.84,39690.05,https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png
+40,138,187,Baseball Ball,8.99,1,8.99,18.49,7.33,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png
+40,51,187,Boxed Blender,39.99,2,79.98,12.67,69.85,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/thumbnail.png
+40,101,187,Apple AirPods Max Silver,549.99,4,2199.96,11.41,1948.94,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png
+40,153,187,Volleyball,11.99,3,35.97,16.05,30.2,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png
+40,164,187,Gray Dress,34.99,5,174.95,8.67,159.78,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/tops/Gray%20Dress/thumbnail.png
+40,171,187,Pacifica Touring,31999.99,3,95999.97,7.4,88895.97,6,18,98499.82,91112.07,https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png
+41,25,184,Green Bell Pepper,1.29,4,5.16,1.2,5.1,6,20,944,879.45,https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png
+41,50,184,Black Whisk,9.99,1,9.99,18.21,8.17,6,20,944,879.45,https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png
+41,151,184,Tennis Ball,6.99,4,27.96,9.43,25.32,6,20,944,879.45,https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Ball/thumbnail.png
+41,42,184,Water,0.99,1,0.99,3.2,0.96,6,20,944,879.45,https://cdn.dummyjson.com/products/images/groceries/Water/thumbnail.png
+41,10,184,Gucci Bloom Eau de,79.99,5,399.95,0.19,399.19,6,20,944,879.45,https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png
+41,103,184,Apple HomePod Mini Cosmic Grey,99.99,5,499.95,11.85,440.71,6,20,944,879.45,https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/thumbnail.png
+42,113,67,Generic Motorcycle,3999.99,3,11999.97,16.57,10011.57,2,7,12059.93,10063.74,https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/thumbnail.png
+42,64,67,Knife,14.99,4,59.96,13,52.17,2,7,12059.93,10063.74,https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/thumbnail.png
+43,182,35,Green Crystal Earring,29.99,1,29.99,0.23,29.92,2,4,179.96,160.56,https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png
+43,149,35,Iron Golf,49.99,3,149.97,12.89,130.64,2,4,179.96,160.56,https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png
+44,93,20,Brown Leather Belt Watch,89.99,3,269.97,8.72,246.43,4,13,460.87,413.86,https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png
+44,4,20,Red Lipstick,12.99,2,25.98,14.69,22.16,4,13,460.87,413.86,https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png
+44,140,20,Basketball,14.99,5,74.95,15.7,63.18,4,13,460.87,413.86,https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png
+44,83,20,Blue & Black Check Shirt,29.99,3,89.97,8.76,82.09,4,13,460.87,413.86,https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png
+45,50,50,Black Whisk,9.99,2,19.98,18.21,16.34,3,11,260.89,228.44,https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png
+45,29,50,Juice,3.99,4,15.96,18.86,12.95,3,11,260.89,228.44,https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png
+45,144,50,Cricket Helmet,44.99,5,224.95,11.47,199.15,3,11,260.89,228.44,https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png
+46,79,93,Asus Zenbook Pro Dual Screen Laptop,1799.99,2,3599.98,17.2,2980.78,2,3,3603.97,2984.13,https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png
+46,69,93,Plate,3.99,1,3.99,16,3.35,2,3,3603.97,2984.13,https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png
+47,92,23,Sports Sneakers Off White Red,109.99,1,109.99,17.73,90.49,5,14,457.86,407.1,https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png
+47,93,23,Brown Leather Belt Watch,89.99,3,269.97,8.72,246.43,5,14,457.86,407.1,https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png
+47,38,23,Rice,5.99,4,23.96,12.55,20.95,5,14,457.86,407.1,https://cdn.dummyjson.com/products/images/groceries/Rice/thumbnail.png
+47,33,23,Mulberry,4.99,3,14.97,2.75,14.56,5,14,457.86,407.1,https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png
+47,53,23,Chopping Board,12.99,3,38.97,11.04,34.67,5,14,457.86,407.1,https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png
+48,40,33,Strawberry,3.99,2,7.98,4.6,7.61,2,4,10007.96,8773.59,https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png
+48,190,33,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,12.34,8765.98,2,4,10007.96,8773.59,https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png
+49,15,86,Wooden Bathroom Sink With Mirror,799.99,4,3199.96,17.11,2652.45,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png
+49,76,86,Wooden Rolling Pin,11.99,3,35.97,8.45,32.93,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png
+49,39,86,Soft Drinks,1.99,3,5.97,5.99,5.61,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png
+49,158,86,Sunglasses,22.99,5,114.95,6.45,107.54,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png
+49,110,86,Selfie Lamp with iPhone,14.99,4,59.96,19.87,48.05,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png
+49,124,86,iPhone X,899.99,4,3599.96,8.03,3310.88,6,23,7016.77,6157.46,https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png
+50,25,52,Green Bell Pepper,1.29,1,1.29,1.2,1.27,2,2,36.28,34.97,https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png
+50,85,52,Man Plaid Shirt,34.99,1,34.99,3.7,33.7,2,2,36.28,34.97,https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png
