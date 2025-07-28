@@ -6,6 +6,9 @@ This project presents a comprehensive demonstration of modern data warehouse and
 
 This project adopts the Medallion Architecture approach (Bronze, Silver Preparation, Silver, Gold layers):
 
+![Data Architecture](docs/data_warehouse.png)
+
+
 * **Bronze Layer:** Stores raw data extracted from APIs as-is
 
 * **Silver Preparation Layer:** Flattens nested JSON structures and arrays from the Bronze layer into normalized columns
@@ -58,6 +61,20 @@ Processed data is loaded into appropriate layers in SQL Server.
 
 ## 🗂️ Entity Relationship Diagram
 
+![Entity Relationship Diagram](docs/data_relations.png)
+
+### The star schema consists of:
+
+* **fact_orders:** Central fact table containing order transactions and metrics
+* **dim_customers:** Customer dimension with detailed customer information
+* **dim_products:** Product dimension with product specifications and attributes
+* **dim_reviews:** Review dimension containing product reviews and ratings
+
+### Key relationships:
+
+* Each order in **fact_orders** references a customer through `customer_id`
+* Each order line references a product through `product_id`
+* Reviews are linked to both customers and products for comprehensive analysis
 
 
 
