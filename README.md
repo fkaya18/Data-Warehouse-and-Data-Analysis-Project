@@ -112,9 +112,13 @@ The Power BI analytics implementation provides comprehensive insights into the e
 
 * **💰 Sales Performance:** An evaluation of sales metrics including revenue distribution, order patterns, and geographic performance to identify key business drivers and market opportunities.
 
+You can find the full interactive dashboard in [here](dashboard.pbix)  
+
 ## Overview of Findings
 
 The e-commerce analytics revealed performance with $907.06K in total revenue generated from 208 customers across 50 orders, resulting in 644 items sold during the analyzed period. The business demonstrates customer engagement with a 21.63% active buyer rate, though the low 1.92% repeat buyer percentage indicates significant opportunities for customer retention improvement. Geographic performance shows concentrated revenue generation with Denver leading at 28.42% of total revenue, while product analysis reveals vehicles as the dominant category contributing 62.76% of total sales. Customer segmentation analysis highlights the value of premium customers, with platinum tier customers generating $456K in revenue, significantly outperforming other segments and emphasizing the importance of high-value customer retention strategies.
+
+![Overview Dashboard](docs/overview.png)
 
 
 ## Customer Demographics and Segmentation
@@ -133,6 +137,7 @@ The e-commerce analytics revealed performance with $907.06K in total revenue gen
   
 * **High-Value Customer Profile:** Top revenue generators include Carter Baker with $246,877 from 3 orders and Nora Mills with $134,662 from 2 orders, demonstrating the significant impact of individual high-value customers and the importance of premium customer retention strategies for business growth.
 
+![Customer Insights](docs/customers.png)
 
 ## Products and Reviews
 
@@ -145,6 +150,8 @@ The e-commerce analytics revealed performance with $907.06K in total revenue gen
 * **Rating Performance and Customer Dissatisfaction:** Of the 133 different products sold, 62 products have received ratings below their expected levels which reveals widespread quality concerns affecting nearly half the product portfolio, indicating systemic quality issues. To give an example, products with IDs 5, 6, and 11 show severe rating gaps with expected ratings of 4.32-4.77 versus actual ratings of only 2.00.
 
 * **Inventory Management Challenges:** Multiple overstocked items are consuming valuable storage space and tying up working capital. Products like Heshe Women's Leather Bag (99 units in stock), Durango SXT (95 units), RWD Feather Shuttlecock (95 units), and Men Check Shirt (95 units) represent slow-moving inventory with poor sales velocity. These products are generating minimal turnover while occupying substantial warehouse capacity. Price adjustments and discount strategies may need to be considered for these overstocked items to improve inventory flow and free up storage resources.
+
+![Products and Reviews Insights](docs/products_and_reviews.png)
 
 ## Sales Performance
 
@@ -161,3 +168,5 @@ The e-commerce analytics revealed performance with $907.06K in total revenue gen
 * **Brand Market Share Distribution:** The brand portfolio shows significant market concentration with Chrysler dominating at 53.3% market share, followed by Rolex at 21.13%. Dodge captures 9.45% of the market, while IWC holds 4.35% and Apple maintains 2.4%. These five major brands control over 90% of the total market share, indicating a highly concentrated marketplace with limited brand diversification. This concentration suggests both the strength of established premium brands and potential opportunities for emerging brand partnerships.
 
 * **Geographic Revenue and AOV Analysis:** California leads the marketplace with $314K total revenue and $22K average order value, while Colorado achieves the highest customer value at $64K AOV from $258K revenue, indicating premium market positioning. Texas ($175K revenue, $16K AOV) and Florida ($119K revenue, $59K AOV) represent strong secondary markets with solid performance. At the city level, Denver ($258K revenue, $64K AOV) and San Jose ($174K revenue, $35K AOV) drive the majority of sales, while smaller markets like Chicago ($425), Indianapolis ($206), and Seattle ($35) show minimal penetration, representing significant untapped growth opportunities.
+
+![Sales Insights](docs/sales.png)
