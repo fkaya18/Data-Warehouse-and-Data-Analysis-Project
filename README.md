@@ -4,6 +4,8 @@ This project presents a comprehensive demonstration of modern data warehouse and
 
 # Part 1: Data Warehouse Implementation 
 
+You can find the script used to create database and schemas in [here](scripts/init_database.sql)
+
 ## 🏗️  Data Architecture
 
 This project adopts the Medallion Architecture approach (Bronze, Silver Preparation, Silver, Gold layers):
@@ -13,11 +15,21 @@ This project adopts the Medallion Architecture approach (Bronze, Silver Preparat
 
 * **Bronze Layer:** Stores raw data extracted from APIs as-is
 
+You can find scripts used to create bronze layer in [here](scripts/bronze/ddl_bronze.sql)
+
 * **Silver Preparation Layer:** Flattens nested JSON structures and arrays from the Bronze layer into normalized columns
+
+You can find scripts used to create silver preperation layer in [here](scripts/silver_prep/ddl_silver_prep.sql)
 
 * **Silver Layer:** Contains data cleansing, standardization, and normalization processes
 
+You can find scripts used to create silver layer in [here](scripts/silver/ddl_silver.sql)
+
+You can find script to load data into silver layer in [here](scripts/silver/silver_load_process.sql)
+
 * **Gold Layer:** Business-ready data structured in star schema model for reporting and analytics
+
+You can find scripts used to create gold layer in [here](scripts/gold/ddl_gold.sql)
 
 ## 🎯 Project Scope
 
@@ -46,7 +58,9 @@ This project includes:
 
 ## 🔄 ETL Process
 
-The ETL process is implemented using Python. You can access the detailed ETL process in the etl_process.ipynb file.
+The ETL process is implemented using Python. 
+
+You can access the detailed ETL process in [here](scripts/etl/etl_data_warehouse.ipynb) and functions used in the ETL process [here](scripts/etl/etl_functions.py).
 
 ### Extract - Python API Integration
 
@@ -60,6 +74,7 @@ Raw extracted data is processed using Python to flatten nested JSON structures a
 ### Load - SQL Server Integration
    
 Processed data is loaded into appropriate layers in SQL Server.
+
 
 ## 🗂️ Entity Relationship Diagram
 
@@ -77,6 +92,15 @@ Processed data is loaded into appropriate layers in SQL Server.
 * Each order in **fact_orders** references a customer through `customer_id`
 * Each order line references a product through `product_id`
 * Reviews are linked to both customers and products for comprehensive analysis
+
+## 🔍 Data Quality and Validation
+
+Comprehensive data quality checks are implemented across both silver and gold layers to ensure data integrity and consistency. The validation process includes duplicate detection, referential integrity verification, business rule validation (such as price and quantity constraints), and format compliance checks for fields like SKUs, emails, and URLs. These quality assurance measures guarantee that the data warehouse maintains high standards of accuracy and reliability throughout the ETL pipeline.
+
+You can find quality and validation tests runned in silver layer in [here](tests/quality_check_silver.sql)
+
+You can find quality and validation tests runned in gold layer in [here](tests/quality_check_gold.sql)
+
 
 # Part 2: Analytics & Insights 📊
 
