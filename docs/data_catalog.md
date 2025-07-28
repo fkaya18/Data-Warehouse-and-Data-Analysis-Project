@@ -1,5 +1,16 @@
+# Data Catalog for Gold Layer
 
+## Overview
 
+The Gold Layer represents business-level data, organized specifically to support analysis and reporting. It includes dimension and fact tables that focus on key business metrics.
+
+---
+
+### 1. **gold.dim_customers**
+
+**Purpose:** Stores detailed demographic and personal information about customers for analysis and reporting.
+
+**Columns:**
 
 | Column Name   | Data Type    | Description                                                                 |
 |---------------|--------------|-----------------------------------------------------------------------------|
@@ -18,7 +29,13 @@
 | state_code    | NVARCHAR     | Abbreviated code of the state.                                             |
 | country       | NVARCHAR     | Country of residence (e.g., 'United States', 'Germany').                   |
 
+---
 
+### 2. **gold.dim_products**
+
+**Purpose:** Contains descriptive information about products including pricing, categories, and shipping details.
+
+**Columns:**
 
 
 | Column Name           | Data Type    | Description                                                                 |
@@ -43,7 +60,13 @@
 | thumbnail             | NVARCHAR     | URL or path to the product thumbnail image.                                 |
 
 
+---
 
+### 3. **gold.dim_reviews**
+
+**Purpose:** Captures customer feedback and ratings on products to assess satisfaction and quality.
+
+**Columns:**
 
 
 | Column Name     | Data Type    | Description                                                                 |
@@ -58,10 +81,13 @@
 | review_date     | DATETIMEOFFSET | Date when the review was submitted.                                       |
 
 
+---
 
+### 4. **gold.fact_orders**
 
+**Purpose:** Tracks transactional sales data by linking customers and products, including pricing and quantity metrics.
 
-
+**Columns:**
 
 
 | Column Name               | Data Type    | Description                                                                 |
