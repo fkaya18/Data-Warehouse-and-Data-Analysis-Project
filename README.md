@@ -56,6 +56,7 @@ Raw extracted data is processed using Python to flatten nested JSON structures a
    
 Processed data is loaded into appropriate layers in SQL Server.
 
+## 🗂️ Entity Relationship Diagram
 
 
 
