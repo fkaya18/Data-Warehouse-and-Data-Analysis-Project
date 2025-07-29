@@ -125,12 +125,10 @@ The e-commerce analytics revealed performance with $907.06K in total revenue gen
 
 * **Gender Distribution:** The customer base demonstrates balanced gender representation with females slightly leading at 50.96% (106 customers) compared to males at 49.04% (102 customers), indicating broad market appeal across both demographics with near-perfect gender parity.
 
-* **Customer Activity Patterns:** Active customer analysis reveals that 55.56% of customers are male and 44.44% are female among the 45 active customers, with an impressive average customer value of $20,157, demonstrating the high-value nature of the engaged customer base.
+* **Customer Activity Patterns:** Active customer analysis reveals 55.56% male (25) and 44.44% female (20) customers among 45 active users, with an impressive average customer value of $20,157. The 26-30 age group dominates with 17 customers (11 female, 6 male), followed by 31-35 with 15 customers (4 female, 11 male). The customer base primarily consists of established professionals in their late twenties to mid-thirties.
   
-* **Age Demographics and Activity Patterns:** The 26-30 age group represents the dominant customer segment with the highest revenue generation and leads active customer engagement with 17 active customers, followed by the 31-35 age group with 15 active customers, indicating that millennials in their prime earning years constitute the core customer demographic for high-value purchases and drive the majority of business activity.
-  
-* **Geographic Distribution:** Customer distribution shows strong presence across major US states, with California leading the customer count at 43 customers, followed by significant representation in Arizona, Texas, Florida, and other key markets, demonstrating effective nationwide market penetration.
-  
+* **Geographic Distribution and Market Penetration:** California dominates with 43 total customers and leads active engagement with 13 customers (8 female, 5 male), followed by Texas with 10 active customers (3 female, 7 male). At city level, Dallas tops with 5 active customers, while San Diego, San Jose, and New York each contribute 4 customers. The data shows effective nationwide market penetration across major US states including Arizona, Florida, and other key markets, with California and Texas representing over 50% of the active customer base.
+
 * **Professional Demographics:** The customer base spans diverse professional backgrounds with Project Managers leading at 14 customers, followed by Business Analysts, Legal Counsels, and Web Developers each contributing 12 customers, indicating strong appeal among skilled professionals and knowledge workers.
   
 * **Customer Segmentation Effectiveness:** The tiered segmentation strategy reveals a pyramid structure with Inactive customers representing the largest group at 163 customers (86 female, 77 male), followed by Bronze segment with 22 customers (9 female, 13 male), Silver with 11 customers (6 female, 5 male), Gold with 8 customers (4 female, 4 male), and Platinum representing the premium tier with 4 customers (1 female, 3 male), indicating significant opportunities for customer activation and progression strategies across segments.
@@ -170,3 +168,23 @@ The e-commerce analytics revealed performance with $907.06K in total revenue gen
 * **Geographic Revenue and AOV Analysis:** California leads the marketplace with $314K total revenue and $22K average order value, while Colorado achieves the highest customer value at $64K AOV from $258K revenue, indicating premium market positioning. Texas ($175K revenue, $16K AOV) and Florida ($119K revenue, $59K AOV) represent strong secondary markets with solid performance. At the city level, Denver ($258K revenue, $64K AOV) and San Jose ($174K revenue, $35K AOV) drive the majority of sales, while smaller markets like Chicago ($425), Indianapolis ($206), and Seattle ($35) show minimal penetration, representing significant untapped growth opportunities.
 
 ![Sales Insights](docs/sales.png)
+
+# Recommendations
+
+* Implement **customer activation campaigns** targeting the **163 inactive customers** (**78.37% of total customer base**) through personalized outreach and exclusive offers to convert dormant accounts into active revenue generators
+
+* Develop **comprehensive retention strategies** to increase the critically low **1.92% repeat buyer rate** through **loyalty programs** and **personalized shopping experiences** to maximize **customer lifetime value**
+
+* Create **premium customer retention programs** specifically for **Platinum tier customers** (**$456K revenue from 4 customers**) with **exclusive benefits** and **VIP experiences** to protect this high-value segment generating **$114K average revenue per customer**
+
+* Expand **vehicle category inventory** and partnerships as this segment dominates with **$569,247 revenue** (**62.76% of total sales**), indicating strong demand for high-value automotive products
+
+* Address **critical inventory management issues** by implementing **advanced demand forecasting** for high-demand products like **Sportbike Motorcycle, and Volleyball** that are completely out of stock
+
+* **Optimize overstocked inventory** including **Heshe Women's Leather Bag (99 units), Durango SXT (95 units**) through **targeted discount campaigns and clearance strategies** to **free up warehouse capacity**
+
+* Enhance **product quality control processes** to address the **62 products (nearly 50% of portfolio)** performing below expected ratings, **particularly those showing severe rating gaps**
+
+* **Capitalize on high-performing age demographics** by creating **targeted campaigns** for the **26-30 age group ($287K revenue) and 31-35 segment ($271K revenue)** who represent the core customer base
+
+* Expand geographic presence in **underperforming markets** like **Chicago ($425), Indianapolis ($206)** while strengthening dominance in high-value markets like **California (43 customers, $314K revenue)**
